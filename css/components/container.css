@@ -1,6 +1,6 @@
 .container {
-  width: 1000px;
-  margin: 20px auto;
+  width: 900px;
+  margin: 10px auto;
 }
 /* Responsiveness */
 @media (max-width: 960px) {
