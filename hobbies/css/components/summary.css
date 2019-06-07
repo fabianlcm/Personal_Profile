@@ -1,0 +1,19 @@
+.summary {
+	margin: 20px;
+}
+.summary h1, h2, h3 {
+	text-align: center;
+	color: #0073B1;
+}
+.summary h1 {
+	font-size: 40px;
+}
+.summary h2 {
+	font-size: 28px;
+}
+.summary h3 {
+	font-size: 24px;
+}
+.summary p {
+	font-size: 16px;
+}
