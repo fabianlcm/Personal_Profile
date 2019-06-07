@@ -1,0 +1,26 @@
+.card-socialmedia {
+	padding: 20px;
+	align-items: center;
+	text-align: center;
+	border-radius: 6px;
+	margin: 10px 10px;
+	flex-basis: 50px; /* size of the flex card */
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
